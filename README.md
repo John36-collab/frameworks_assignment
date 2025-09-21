@@ -3,6 +3,9 @@ Cord19_analysis
 
 # 🔬 CORD-19 Data Explorer
 
+app.py: Local URL: http://localhost:8501
+  Network URL: http://10.179.124.78:8501
+
 ## 📌 Overview
 This project explores the **CORD-19 dataset** (metadata of COVID-19 research papers).  
 The workflow covers:
